@@ -1,0 +1,14 @@
+{
+    "id": "sam/qr-payment",
+    "name": "UPI QR Payment",
+    "namespace": "Sam\\QrPayment\\",
+    "provider": "Sam\\QrPayment\\Providers\\QrPaymentServiceProvider",
+    "author": "Sam",
+    "url": "",
+    "version": "1.0.0",
+    "description": "Custom UPI QR Code Payment Gateway for Botble eCommerce with 0% transaction fees",
+    "require": [
+        "payment",
+        "ecommerce"
+    ]
+}
